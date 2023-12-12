@@ -26,8 +26,7 @@ const ContactUs = async () => {
         <script
 src='//in.fw-cdn.com/31589493/795627.js'
 chat='true'>
-</script>
-                
+</script>    
                 <div className='contain'>
                     {
                         Data ?
