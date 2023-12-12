@@ -23,10 +23,10 @@ const ContactUs = async () => {
         <>
             {/* <Meta {...{SEO}} /> */}
             <div className={styles.contact}>
-        <script
-src='//in.fw-cdn.com/31589493/795627.js'
-chat='true'>
-</script>    
+   <script
+src='//fw-cdn.com/10985260/3738874.js'
+chat='false'>
+</script>   
                 <div className='contain'>
                     {
                         Data ?
