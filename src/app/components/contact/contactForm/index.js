@@ -17,10 +17,7 @@ const ContactForm = ({
         resolver: yupResolver(schema)
     })
     const onSubmit = data => console.log(data)
-    <script
-src='//fw-cdn.com/10985260/3738874.js'
-chat='true'>
-</script>
+ 
 
     const FormBuilder = [
         {
