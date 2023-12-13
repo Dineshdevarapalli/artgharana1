@@ -22,7 +22,7 @@ const ContactUs = async () => {
     return (
         <>
             {/* <Meta {...{SEO}} /> */}
-        <script
+ <script
 src='//fw-cdn.com/10985260/3738874.js'
 chat='false'>
 </script>
