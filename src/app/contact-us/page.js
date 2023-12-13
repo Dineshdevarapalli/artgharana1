@@ -52,10 +52,7 @@ const ContactUs = async () => {
                                     {
                                         Data?.address?.map((item, index) => {
                                             return (
-                                                <script
-src='//fw-cdn.com/10985260/3738874.js'
-chat='true'>
-</script>
+
                                                 <div className={styles.address_block_item} key={index}>
                                                     <p className={styles.title}>{item.country}</p>
                                                     <p className={styles.text}>
