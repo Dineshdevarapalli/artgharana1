@@ -28,9 +28,9 @@ const ContactUs = async () => {
                 <div className='contain'>
                     {
                         Data ?
-                               <script
+ <script
 src='//fw-cdn.com/10985260/3738874.js'
-chat='true'>
+chat='false'>
 </script>
                         <div className={styles.contact_wrap}>
                             <div className={styles.contact_wrap_content}>
